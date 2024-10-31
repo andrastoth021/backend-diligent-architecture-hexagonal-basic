@@ -5,7 +5,8 @@
   "scripts": {
     "test": "jest",
     "server": "nodemon --exec ts-node src/server.ts",
-    "ts": "ts-node"
+    "ts": "ts-node",
+    "prompt": "ts-node src/prompt.ts"
   },
   "keywords": [],
   "author": "",
